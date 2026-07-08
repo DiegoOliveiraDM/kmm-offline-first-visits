@@ -6,7 +6,7 @@ Android-first product teams.
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.3.21-7F52FF?logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-SDK_37-3DDC84?logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-Kotlin_Native-000000?logo=apple&logoColor=white)
-![CI](https://github.com/padawangm-hub/kmm-offline-first-visits/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/DiegoOliveiraDM/kmm-offline-first-visits/actions/workflows/ci.yml/badge.svg)
 
 ## What it demonstrates
 
